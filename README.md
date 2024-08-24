@@ -7,3 +7,10 @@ This project utilizes the MEAN Stack:
 ->Express
 ->Angular
 ->Node.js
+
+Development Progress Notes (In Order of Execution):
+->Create project repository and clone using GitHub Desktop
+->Create folders "backend" and "web-ui"
+->Initialize Angular project in "web-ui" and install dependencies
+->Create new Node.js project in "backend"
+->Create server.js
